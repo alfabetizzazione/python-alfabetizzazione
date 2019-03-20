@@ -1,4 +1,4 @@
-#  ESERCIZIO-10---Creazione,-accesso-e-aggiornamento-di-una-lista
+#  ESERCIZIO-10---Creazione, accesso e aggiornamento di una lista
 
 Creare una lista di 6 elementi in cui sia presente almeno un valore intero, un valore decimale, una stringa e un valore booleano. Accedere al terzo elemento e in seguito aggiornarlo con la stringa **gatto**. 
 Accedere poi alla sottolista che va dal secondo al quarto elemento e aggiornarla con la lista vuota.
