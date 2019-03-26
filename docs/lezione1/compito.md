@@ -5,6 +5,11 @@ Ad esempio **8P** è 8 di picche, **JC** il jack di cuori e **0Q** il 10 di
 quadri.
 Le carte nella lista sono in  ordine crescente di valore e la lista non contiene carte ripetute.
 
+Un esempio di input è una cella con:
+```
+carte = ["5C", "5P", "7F", "0Q", "1Q"]
+```
+
 Dalla lista, determinare quale combinazione di poker corrisponde alla lista,
 secondo i seguenti criteri:
 
