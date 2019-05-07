@@ -21,5 +21,5 @@ Scrivere un notebook che determini:
 Riflettere sui seguenti aspetti:
 
 1.  Come posso gestire un elenco arbitrario di treni, di cui non conosco la
-    numerosità?
-1.  Come posso essere sicuro di non avere due treni con lo stesso codice?
+numerosità (quindi potrei avere più di quattro liste da gestire)?
+1.  Come posso controllare se esistono due treni con lo stesso codice?
